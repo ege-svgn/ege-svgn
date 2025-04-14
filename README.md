@@ -1,16 +1,15 @@
-## Hi there 👋
+# Merhaba, ben Ege! 👋
 
-<!--
-**ege-svgn/ege-svgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Kocaeli Üniversitesi Elektronik ve Haberleşme Mühendisliği öğrencisiyim.
 
-Here are some ideas to get you started:
+🔧 Donanım odaklı sistem tasarımı, gömülü yazılım geliştirme ve PCB tasarımı konularında kendimi geliştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Kullandığım teknolojiler:
+- **Programlama Dilleri**: C, Python
+- **Donanım ve Simülasyon Araçları**: STM32, Altium Designer
+- **Diğer**: Git, Microsoft Office
+
+
+
+📫 Bana ulaşmak için: [egesevgen@gmail.com]
+
