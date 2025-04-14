@@ -5,7 +5,7 @@
 🔧 Donanım odaklı sistem tasarımı, gömülü yazılım geliştirme ve PCB tasarımı konularında kendimi geliştiriyorum.
 
 💻 Kullandığım teknolojiler:
-- **Programlama Dilleri**: C, Python
+- **Programlama Dilleri**: C, Python , Matlab
 - **Donanım ve Simülasyon Araçları**: STM32, Altium Designer
 - **Diğer**: Git, Microsoft Office
 
